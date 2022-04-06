@@ -14,6 +14,6 @@ This dashboard's goal is to provide charts, maps, and interactive visualizations
 - Interactive chart where user can select a neighbourhoood and get average house value for that neighbourhood
 ***Too Expensive neighbourhood***
 - A bar char for the top 10 expensive neighbourhood
-- A sun chart for all the neighhourhood with colors indicating the cost 
+- A sun chart for all the neighhourhood with colors indicating the cost and can be viewed for different years
 
 
