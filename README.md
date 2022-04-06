@@ -2,6 +2,7 @@
 This dashboard's goal is to provide charts, maps, and interactive visualizations that help customers explore the data 
 
 ***The dashboard has 5 tabs that display the data as below***
+
 ***Welcome tab*** 
 This tab represents visual analysis of historic house values, dwelling types per neighbourhood using scatter_mapbox based on the longitude and latitude of the house location
 
