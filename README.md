@@ -38,15 +38,16 @@ Interactive chart where user can select a neighbourhoood and get average house v
 ***Line charts***
 ![AverageMonthlyShelterCostsforOwnedDwellingsinToronto.png](Images/AverageMonthlyShelterCostsforOwnedDwellingsinToronto.png)
 
-***Bar charts using hvplot ***
+***Bar charts using hvplot***
 ![AverageHouseValue.png](Images/AverageHouseValue.png)
 
-***Interactive Bar charts using hvplot ***
+***Interactive Bar charts using hvplot***
 ![DwellingTypesInteractiveNeighbourhood.png](Images/DwellingTypesInteractiveNeighbourhood.png)
-***Interactive Line charts using hvplot ***
+
+***Interactive Line charts using hvplot***
 ![NumberOfDwellingTypes_year.png](Images/NumberOfDwellingTypes_year.png)
 
-***Interactive Bar charts ***
+***Interactive Bar charts***
 ![Top10ExpensiveNeighbouthood.png](Images/Top10ExpensiveNeighbouthood.png)
 
 ***SunBurst charts***
