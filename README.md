@@ -1,17 +1,15 @@
 # 06_Pythonic_Monopoly
 
-This homework loads the data from csv files to a dataframe and then different
-aggregation functions like groupby/sum/mean etc to 
-![Top10ExpensiveNeighbouthood.png](Images/Top10ExpensiveNeighbouthood.png)
-![Sunburst.png](Images/Sunburst.png)
-![AverageHouseValue.png](Images/AverageHouseValue.png)
-![DwellingTypesInteractiveNeighbourhood.png](Images/DwellingTypesInteractiveNeighbourhood.png)
-![NumberOfDwellingTypes_year.png](Images/NumberOfDwellingTypes_year.png)
-![Sunburst.png](Images/Sunburst.png)
+***This homework loads the data from csv files to a dataframe and then different
+aggregation functions like groupby/sum/mean etc to get the required data***
+
+***It then plots the data using bar charts/line charts/hvplots for interactive data visualization***
+
 
 This dashboard's goal is to provide charts, maps, and interactive visualizations that help customers explore the data 
 
 ***The dashboard has 5 tabs that display the data as below***
+![DashBoard.png](Images/DashBoard.png)
 
 ***Welcome tab*** 
 This tab represents visual analysis of historic house values, dwelling types per neighbourhood using scatter_mapbox based on the longitude and latitude of the house location
@@ -31,6 +29,26 @@ Interactive chart where user can select a neighbourhoood and get average house v
 
 - A bar char for the top 10 expensive neighbourhood
 - A sun chart for all the neighhourhood with colors indicating the cost and can be viewed for different years
+
+# The following images show the differnent types of charts that are being rendered
+
+***Bar charts***
+![DwellingtypesinTorontoin2001.png](Images/DwellingtypesinTorontoin2001.png)
+
+***Line charts***
+![AverageMonthlyShelterCostsforOwnedDwellingsinToronto.png](Images/AverageMonthlyShelterCostsforOwnedDwellingsinToronto.png)
+
+***Bar charts using hvplot ***
+![AverageHouseValue.png](Images/AverageHouseValue.png)
+
+***InteraBar charts using hvplot ***
+![DwellingTypesInteractiveNeighbourhood.png](Images/DwellingTypesInteractiveNeighbourhood.png)
+![NumberOfDwellingTypes_year.png](Images/NumberOfDwellingTypes_year.png)
+![Top10ExpensiveNeighbouthood.png](Images/Top10ExpensiveNeighbouthood.png)
+
+***SunBurst charts***
+![Sunburst.png](Images/Sunburst.png)
+
 
 
 
