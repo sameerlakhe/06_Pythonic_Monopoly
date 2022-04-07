@@ -1,6 +1,7 @@
 # 06_Pythonic_Monopoly
 
-
+This homework loads the data from csv files to a dataframe and then different
+aggregation functions like groupby/sum/mean etc to 
 ![Top10ExpensiveNeighbouthood.png](Images/Top10ExpensiveNeighbouthood.png)
 ![Sunburst.png](Images/Sunburst.png)
 ![AverageHouseValue.png](Images/AverageHouseValue.png)
