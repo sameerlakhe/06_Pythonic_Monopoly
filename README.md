@@ -1,4 +1,4 @@
-# 06_Pythonic_Monopoly
+### 06_Pythonic_Monopoly
 
 ***This homework loads the data from csv files to a dataframe and then different
 aggregation functions like groupby/sum/mean etc to get the required data***
@@ -30,7 +30,7 @@ Interactive chart where user can select a neighbourhoood and get average house v
 - A bar char for the top 10 expensive neighbourhood
 - A sun chart for all the neighhourhood with colors indicating the cost and can be viewed for different years
 
-# The following images show the differnent types of charts that are being rendered
+***The following images show the differnent types of charts that are being rendered***
 
 ***Bar charts***
 ![DwellingtypesinTorontoin2001.png](Images/DwellingtypesinTorontoin2001.png)
