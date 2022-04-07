@@ -1,4 +1,13 @@
 # 06_Pythonic_Monopoly
+
+
+![Top10ExpensiveNeighbouthood.png](Images/Top10ExpensiveNeighbouthood.png)
+![Sunburst.png](Images/Sunburst.png)
+![AverageHouseValue.png](Images/AverageHouseValue.png)
+![DwellingTypesInteractiveNeighbourhood.png](Images/DwellingTypesInteractiveNeighbourhood.png)
+![NumberOfDwellingTypes_year.png](Images/NumberOfDwellingTypes_year.png)
+![Sunburst.png](Images/Sunburst.png)
+
 This dashboard's goal is to provide charts, maps, and interactive visualizations that help customers explore the data 
 
 ***The dashboard has 5 tabs that display the data as below***
